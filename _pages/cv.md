@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-<embed src="https://marcwu-929.github.io/cv/files/CV_Mingda Wu.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="files/CV_Mingda Wu.pdf" type="application/pdf" width="600px" height="500px" />
