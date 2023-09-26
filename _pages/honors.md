@@ -19,6 +19,9 @@ author_profile: true
  
 ![Alt Text](/marcwu-929.github.io/images/scholarship.png)
 
+<img src="https://marcwu-929.github.io/images/scholarship.png" alt="Description of the image" width="600" height="700">
+
+
 ## **First Place of the undergraduate group at ILGISA Poster Symposium**
 
 **Illinois Geographic Information System Association**, May 2023
