@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Here is Mingda Wu (Marc). I'm a senior majoring in Geography and GIS. 
+Here is **Mingda Wu** (Marc). I'm a senior majoring in Geography and GIS. 
