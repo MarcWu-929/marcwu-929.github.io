@@ -16,8 +16,10 @@ author_profile: true
 ## **Richard E. Dahlberg Scholarship**
 
 **Department of Earth, Atmosphere and Environment, Northern Illinois University**, May 2023
-
-<embed src="{{ https://marcwu-929.github.io// }}/images/scholarship.png" width="60" height="70" type='application/png'> 
+ 
+<div style="width: 300px; height: 200px;">
+    ![Alt Text](https://marcwu-929.github.io//images/scholarship.png)
+</div>
 
 ## **First Place of the undergraduate group at ILGISA Poster Symposium**
 
