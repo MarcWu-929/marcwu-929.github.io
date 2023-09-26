@@ -17,7 +17,7 @@ author_profile: true
 
 **Department of Earth, Atmosphere and Environment, Northern Illinois University**, May 2023
 
-<img src="your-image-url-here" alt="Alt text" width="300" height="200" />
+<img src="https:/marcwu-929.github.io//images/scholarship.jpg" alt="Alt text" width="300" height="200" />
 
 ## **First Place of the undergraduate group at ILGISA Poster Symposium**
 
