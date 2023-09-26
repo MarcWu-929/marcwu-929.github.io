@@ -6,8 +6,10 @@ main:
   - title: "Awards and Honors"
     url: /honors/    
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Photo Gallery"
     url: /photo/    
     
-  - title: "CV"
-    url: /cv/
+
