@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
-                "mode": "source",
-                "source": false
+                "file": "_pages/publications.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_pages/publications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_pages/publications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/about.md"
+                "file": "_pages/publications.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "dcea1c81046fa437",
   "lastOpenFiles": [
+    "_pages/sitemap.md",
     "_pages/publications.md",
-    "_pages/404.md",
     "_pages/about.md",
+    "_pages/404.md",
     "_pages/cv.md",
     "_pages/markdown.md"
   ]
