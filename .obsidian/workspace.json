@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dcea1c81046fa437",
+            "id": "14b8568f935508f8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/publications.md",
-                "mode": "preview",
-                "source": true
-              }
+                "file": "_pages/honors.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/publications.md",
+                "file": "_pages/honors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/publications.md",
+                "file": "_pages/honors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/publications.md"
+                "file": "_pages/honors.md"
               }
             }
           }
@@ -146,13 +148,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcea1c81046fa437",
+  "active": "14b8568f935508f8",
   "lastOpenFiles": [
-    "_pages/sitemap.md",
+    "images/scholarship.jpg",
+    "_pages/honors.md",
     "_pages/publications.md",
+    "images/safari-pinned-tab.svg",
+    "images/avatar.png",
+    "images/奖学金-1.jpg",
+    "images/editing-talk.png",
+    "_pages/markdown.md",
+    "_pages/sitemap.md",
     "_pages/about.md",
     "_pages/404.md",
-    "_pages/cv.md",
-    "_pages/markdown.md"
+    "_pages/cv.md"
   ]
 }
