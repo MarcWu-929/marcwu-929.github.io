@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2d0e6547c0de8acd",
+        "id": "a3353a0e094d9c9a",
         "type": "tabs",
         "children": [
           {
-            "id": "14b8568f935508f8",
+            "id": "14bcc5a598225e18",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/honors.md",
+                "file": "_pages/about.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4a16bbdeada009c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_pages/honors.md",
-                "mode": "preview",
-                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/honors.md",
+                "file": "_pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/honors.md",
+                "file": "_pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/honors.md"
+                "file": "_pages/about.md"
               }
             }
           }
@@ -161,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a16bbdeada009c5",
+  "active": "14bcc5a598225e18",
   "lastOpenFiles": [
+    "_pages/honors.md",
     "images/scholarship.png",
     "_pages/publications.md",
-    "_pages/honors.md",
     "_pages/cv.md",
     "images/scholarship.jpg",
     "images/safari-pinned-tab.svg",
