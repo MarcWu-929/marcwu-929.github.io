@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4a16bbdeada009c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_pages/honors.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,11 +161,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14b8568f935508f8",
+  "active": "4a16bbdeada009c5",
   "lastOpenFiles": [
-    "images/scholarship.jpg",
-    "_pages/honors.md",
     "_pages/publications.md",
+    "_pages/honors.md",
+    "_pages/cv.md",
+    "images/scholarship.jpg",
     "images/safari-pinned-tab.svg",
     "images/avatar.png",
     "images/奖学金-1.jpg",
@@ -160,7 +174,6 @@
     "_pages/markdown.md",
     "_pages/sitemap.md",
     "_pages/about.md",
-    "_pages/404.md",
-    "_pages/cv.md"
+    "_pages/404.md"
   ]
 }
