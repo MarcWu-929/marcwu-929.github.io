@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "CHANGELOG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f3df9d9a16e4955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_pages/photo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_pages/photo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_pages/photo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/about.md"
+                "file": "_pages/photo.md"
               }
             }
           }
@@ -146,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14bcc5a598225e18",
+  "active": "1e35e5e90f393e5a",
   "lastOpenFiles": [
+    "CHANGELOG.md",
+    "_pages/photo.md",
+    "_pages/about.md",
+    "Untitled",
     "_pages/honors.md",
     "images/scholarship.png",
     "_pages/publications.md",
@@ -159,7 +176,6 @@
     "images/editing-talk.png",
     "_pages/markdown.md",
     "_pages/sitemap.md",
-    "_pages/about.md",
     "_pages/404.md"
   ]
 }
