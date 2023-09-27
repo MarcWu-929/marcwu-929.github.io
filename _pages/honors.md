@@ -150,6 +150,44 @@ Illinois College Press Association, Feb 2023
 
 <img src="https://marcwu-929.github.io/images/news.jpg" alt="Description of the image" width="450" height="300">
 
+
+<div class="container">
+  <div class="text-box">
+    <p><b>Second place of general news photo for excellence in Illinois college newspaper</b>
+      <br>
+      Feb 2023
+      <br>
+      Illinois College Press Association
+    </p>
+  </div>
+  <div class="image">
+    <img src="https://marcwu-929.github.io/images/news.jpg" alt="Description of the image" width="325" height="500">
+  </div>
+</div>
+
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+  }
+
+  .text-box {
+    flex: 1;
+    padding: 20px;
+    background-color: transparent;
+  }
+
+  .image {
+    flex-shrink: 0;
+    margin-left: 20px;
+  }
+
+  img {
+    max-width: 63%;
+    height: auto;
+  }
+</style>
+
 ## **Major Third-Class Scholarship**
 
 Capital Normal University, Spring 2022
