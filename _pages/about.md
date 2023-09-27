@@ -1,15 +1,48 @@
 ---
 permalink: /
-title: Mingda Wu
-excerpt: About me
+title: About Me
+excerpt: Mingda Wu
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-This is **Mingda Wu** (Marc). I'm an undergraduate senior majoring **Geographic Information Science** at Capital Normal University (China) and **Geography** at Northern Illinois University (USA). I'm current working with Dr. Qunying Huang from Spatial Computing and Data Mining lab at University of Wisconsin-Madison to conduct research related to remote sensing and deep learning. 
 
-## Education
+<div class="container">
+  <div class="text-box">
+    <p>This is <b>Mingda Wu</b> (Marc). I'm an undergraduate senior majoring <b>Geographic Information Science</b> at Capital Normal University (China) and <b>Geography</b> at Northern Illinois University (USA). I'm current working with Dr. Qunying Huang from Spatial Computing and Data Mining lab at University of Wisconsin-Madison to conduct research related to remote sensing and deep learning. .</p>
+  </div>
+  <div class="image">
+    <img src="https://marcwu-929.github.io/images/head_photo.jpg" alt="Description of the image" width="325" height="500">
+  </div>
+</div>
+
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+  }
+
+  .text-box {
+    flex: 1;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+
+  .image {
+    flex-shrink: 0;
+    margin-left: 20px;
+  }
+
+  img {
+    max-width: 63%;
+    height: auto;
+  }
+</style>
+
+
+
+# Education
  **Capital Normal University**
 
 Bachelor of Science in Geographic Information Science, Beijing, China, 2020-Present
@@ -18,7 +51,7 @@ Bachelor of Science in Geographic Information Science, Beijing, China, 2020-Pres
 
 Bachelor of Science in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
 
-## Research Interests
+# Research Interests
 - Remote Sensing and GIS
 - Semantic Segmentation
 - Machine Learning and Deep learning
