@@ -47,7 +47,7 @@ author_profile: true
   }
 
   img {
-    max-width: 45%;
+    max-width: 35%;
     height: auto;
   }
 </style>
@@ -90,7 +90,7 @@ Department of Earth, Atmosphere and Environment, Northern Illinois University, M
   }
 
   img {
-    max-width: 63%;
+    max-width: 68%;
     height: auto;
   }
 </style>
@@ -135,7 +135,7 @@ Illinois Geographic Information System Association, May 2023
   }
 
   img {
-    max-width: 63%;
+    max-width: 73%;
     height: auto;
   }
 </style>
@@ -183,7 +183,7 @@ Illinois College Press Association, Feb 2023
   }
 
   img {
-    max-width: 63%;
+    max-width: 65%;
     height: auto;
   }
 </style>
