@@ -93,7 +93,7 @@ Bachelor of Science in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
   }
 
   img {
-    max-width: 63%;
+    max-width: 70%;
     height: auto;
   }
 </style>
