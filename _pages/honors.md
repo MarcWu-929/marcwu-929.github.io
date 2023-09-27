@@ -52,12 +52,48 @@ author_profile: true
   }
 </style>
 
-## **Richard E. Dahlberg Scholarship**
+<!-- ## **Richard E. Dahlberg Scholarship**
 
 Department of Earth, Atmosphere and Environment, Northern Illinois University, May 2023
 
+<img src="https://marcwu-929.github.io/images/presentation.jpg" alt="Description of the image" width="450" height="300"> -->
 
-<img src="https://marcwu-929.github.io/images/scholarship.jpg" alt="Description of the image" width="450" height="300">
+<div class="container">
+  <div class="text-box">
+    <p><b>Richard E. Dahlberg Scholarship</b>
+      <br>
+      May 2023
+      <br>
+      Department of Earth, Atmosphere and Environment, Northern Illinois University
+    </p>
+  </div>
+  <div class="image">
+    <img src="https://marcwu-929.github.io/images/scholarship.jpg" alt="Description of the image" width="325" height="500">
+  </div>
+</div>
+
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+  }
+
+  .text-box {
+    flex: 1;
+    padding: 20px;
+    background-color: transparent;
+  }
+
+  .image {
+    flex-shrink: 0;
+    margin-left: 20px;
+  }
+
+  img {
+    max-width: 63%;
+    height: auto;
+  }
+</style>
 
 
 ## **First Place of the undergraduate group at ILGISA Poster Symposium**
