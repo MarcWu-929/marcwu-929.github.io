@@ -54,7 +54,7 @@ Bachelor of Science in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
 # Research Interests
 - Remote Sensing and GIS
 - Semantic Segmentation
-- Machine Learning and Deep learning
+- Machine Learning
 - Spatial Analysis
 - Forest and Vegetation Mapping
 - Natural Hazard
