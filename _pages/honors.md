@@ -47,7 +47,7 @@ author_profile: true
   }
 
   img {
-    max-width: 35%;
+    max-width: 10%;
     height: auto;
   }
 </style>
