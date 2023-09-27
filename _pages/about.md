@@ -35,7 +35,7 @@ redirect_from:
   }
 
   img {
-    max-width: 60%;
+    max-width: 65%;
     height: auto;
   }
 </style>
