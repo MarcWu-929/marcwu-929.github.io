@@ -13,17 +13,21 @@ author_profile: true
 
 2023 6th International Conference on Big Data Technologies, Sep 2023
 
+<img src="https://marcwu-929.github.io/images/presentation.jpg" alt="Description of the image" width="450" height="300">
+
 ## **Richard E. Dahlberg Scholarship**
 
 Department of Earth, Atmosphere and Environment, Northern Illinois University, May 2023
 
 
-<img src="https://marcwu-929.github.io/images/scholarship.png" alt="Description of the image" width="450" height="300">
+<img src="https://marcwu-929.github.io/images/scholarship.jpg" alt="Description of the image" width="450" height="300">
 
 
 ## **First Place of the undergraduate group at ILGISA Poster Symposium**
 
 Illinois Geographic Information System Association, May 2023
+
+<img src="https://marcwu-929.github.io/images/poster.jpg" alt="Description of the image" width="450" height="300">
 
 ## **Third Place of the environmental category at CURE Poster Symposium**
 
@@ -32,6 +36,8 @@ Northern Illinois University, Apr 2023
 ## **Second place of general news photo for excellence in Illinois college newspaper**
 
 Illinois College Press Association, Feb 2023
+
+<img src="https://marcwu-929.github.io/images/news.jpg" alt="Description of the image" width="450" height="300">
 
 ## **Major Third-Class Scholarship**
 
