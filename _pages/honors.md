@@ -19,7 +19,9 @@ author_profile: true
   <div class="text-box">
     <p><b>Excellent Presentation Award</b>
       <br>
-      2023 6th International Conference on Big Data Technologies, Sep 2023
+      Sep 2023
+      <br>
+      2023 6th International Conference on Big Data Technologies
     </p>
   </div>
   <div class="image">
