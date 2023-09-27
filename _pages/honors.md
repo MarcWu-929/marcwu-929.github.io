@@ -11,9 +11,9 @@ author_profile: true
 
 ## **Excellent Presentation Award**
 
-2023 6th International Conference on Big Data Technologies, Sep 2023
+<!-- 2023 6th International Conference on Big Data Technologies, Sep 2023 
 
-<img src="https://marcwu-929.github.io/images/presentation.jpg" alt="Description of the image" width="450" height="300">
+<img src="https://marcwu-929.github.io/images/presentation.jpg" alt="Description of the image" width="450" height="300"> -->
 
 <div class="container">
   <div class="text-box">
@@ -33,7 +33,7 @@ author_profile: true
   .text-box {
     flex: 1;
     padding: 20px;
-    background-color: #f0f0f0;
+    background-color: transparent;
   }
 
   .image {
