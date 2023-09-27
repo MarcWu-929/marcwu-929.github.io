@@ -24,14 +24,14 @@ redirect_from:
   }
 
   .text-box {
-    flex: 2;
+    flex: 1;
     padding: 20px;
     background-color: #f0f0f0;
   }
 
   .image {
     flex-shrink: 0;
-    margin-left: 20px;
+    margin-left: 50px;
   }
 
   img {
