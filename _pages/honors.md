@@ -15,6 +15,38 @@ author_profile: true
 
 <img src="https://marcwu-929.github.io/images/presentation.jpg" alt="Description of the image" width="450" height="300">
 
+<div class="container">
+  <div class="text-box">
+    <p>This is <b>Mingda Wu</b> (Marc). I'm an undergraduate senior majoring <b>Geographic Information Science</b> at Capital Normal University (China) and <b>Geography</b> at Northern Illinois University (USA). I'm current working with Dr. Qunying Huang from Spatial Computing and Data Mining lab at University of Wisconsin-Madison to conduct research related to remote sensing and deep learning.</p>
+  </div>
+  <div class="image">
+    <img src="https://marcwu-929.github.io/images/presentation.jpg" alt="Description of the image" width="325" height="500">
+  </div>
+</div>
+
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+  }
+
+  .text-box {
+    flex: 1;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+
+  .image {
+    flex-shrink: 0;
+    margin-left: 20px;
+  }
+
+  img {
+    max-width: 63%;
+    height: auto;
+  }
+</style>
+
 ## **Richard E. Dahlberg Scholarship**
 
 Department of Earth, Atmosphere and Environment, Northern Illinois University, May 2023
