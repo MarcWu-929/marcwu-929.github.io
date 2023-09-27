@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-## **Excellent Presentation Award**
+<!-- ## **Excellent Presentation Award** -->
 
 <!-- 2023 6th International Conference on Big Data Technologies, Sep 2023 
 
@@ -17,7 +17,10 @@ author_profile: true
 
 <div class="container">
   <div class="text-box">
-    <p>2023 6th International Conference on Big Data Technologies, Sep 2023</p>
+    <p><b>Excellent Presentation Award</b>
+      <br>
+      2023 6th International Conference on Big Data Technologies, Sep 2023
+    </p>
   </div>
   <div class="image">
     <img src="https://marcwu-929.github.io/images/presentation.jpg" alt="Description of the image" width="325" height="500">
