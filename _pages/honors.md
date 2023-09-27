@@ -47,7 +47,7 @@ author_profile: true
   }
 
   img {
-    max-width: 63%;
+    max-width: 10%;
     height: auto;
   }
 </style>
@@ -90,7 +90,7 @@ Department of Earth, Atmosphere and Environment, Northern Illinois University, M
   }
 
   img {
-    max-width: 63%;
+    max-width: 68%;
     height: auto;
   }
 </style>
@@ -135,7 +135,7 @@ Illinois Geographic Information System Association, May 2023
   }
 
   img {
-    max-width: 63%;
+    max-width: 73%;
     height: auto;
   }
 </style>
@@ -144,11 +144,11 @@ Illinois Geographic Information System Association, May 2023
 
 Northern Illinois University, Apr 2023
 
-## **Second place of general news photo for excellence in Illinois college newspaper**
+<!-- ## **Second place of general news photo for excellence in Illinois college newspaper**
 
 Illinois College Press Association, Feb 2023
 
-<img src="https://marcwu-929.github.io/images/news.jpg" alt="Description of the image" width="450" height="300">
+<img src="https://marcwu-929.github.io/images/news.jpg" alt="Description of the image" width="450" height="300"> -->
 
 
 <div class="container">
@@ -183,7 +183,7 @@ Illinois College Press Association, Feb 2023
   }
 
   img {
-    max-width: 63%;
+    max-width: 65%;
     height: auto;
   }
 </style>
