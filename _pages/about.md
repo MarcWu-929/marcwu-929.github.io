@@ -59,4 +59,4 @@ Bachelor of Science in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
 - Forest and Vegetation Mapping
 - Natural Hazard
 
-My research lies across the discipline of Geography, Computer Vision and Data Science. My current research focuses on remote sensing image segmentation using deep learning models. Some techniques involved including semantic segmentation, supervised classification, image super sampling, etc. I wish to combine remote sensing technologies with other powerful tools to solve problems related to vegetation and physical geography.
+My research lies across the discipline of Geography, Computer Vision and Data Science. My current research focuses on remote sensing image segmentation using deep learning models. Some techniques involved including semantic segmentation, supervised classification, image super sampling, etc. I wish to combine remote sensing technologies with other powerful tools to solve problems related to ecosystem and physical geography.
