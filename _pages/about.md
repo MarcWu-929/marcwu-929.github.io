@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+```html
 <div class="container">
   <div class="text-box">
     <p>This is <b>Mingda Wu</b> (Marc). I'm an undergraduate senior majoring <b>Geographic Information Science</b> at Capital Normal University (China) and <b>Geography</b> at Northern Illinois University (USA). I'm current working with Dr. Qunying Huang from Spatial Computing and Data Mining lab at University of Wisconsin-Madison to conduct research related to remote sensing and deep learning. .</p>
@@ -16,6 +17,31 @@ redirect_from:
     <img src="https://marcwu-929.github.io/images/head_photo.jpg" alt="Description of the image" width="450" height="300">
   </div>
 </div>
+
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+  }
+
+  .text-box {
+    flex: 1;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+
+  .image {
+    flex-shrink: 0;
+    margin-left: 20px;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+```
+
 
 
 ## Education
