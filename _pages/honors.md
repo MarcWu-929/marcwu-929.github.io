@@ -47,7 +47,7 @@ author_profile: true
   }
 
   img {
-    max-width: 63%;
+    max-width: 45%;
     height: auto;
   }
 </style>
@@ -144,11 +144,11 @@ Illinois Geographic Information System Association, May 2023
 
 Northern Illinois University, Apr 2023
 
-## **Second place of general news photo for excellence in Illinois college newspaper**
+<!-- ## **Second place of general news photo for excellence in Illinois college newspaper**
 
 Illinois College Press Association, Feb 2023
 
-<img src="https://marcwu-929.github.io/images/news.jpg" alt="Description of the image" width="450" height="300">
+<img src="https://marcwu-929.github.io/images/news.jpg" alt="Description of the image" width="450" height="300"> -->
 
 
 <div class="container">
