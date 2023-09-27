@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-```html
 <div class="container">
   <div class="text-box">
     <p>This is <b>Mingda Wu</b> (Marc). I'm an undergraduate senior majoring <b>Geographic Information Science</b> at Capital Normal University (China) and <b>Geography</b> at Northern Illinois University (USA). I'm current working with Dr. Qunying Huang from Spatial Computing and Data Mining lab at University of Wisconsin-Madison to conduct research related to remote sensing and deep learning. .</p>
@@ -40,7 +39,6 @@ redirect_from:
     height: auto;
   }
 </style>
-```
 
 
 
