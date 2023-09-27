@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="container">
   <div class="text-box">
-    <p>This is <b>Mingda Wu</b> (Marc). I'm an undergraduate senior majoring <b>Geographic Information Science</b> at Capital Normal University (China) and <b>Geography</b> at Northern Illinois University (USA). I'm current working with Dr. Qunying Huang from Spatial Computing and Data Mining lab at University of Wisconsin-Madison to conduct research related to remote sensing and deep learning. .</p>
+    <p>This is <b>Mingda Wu</b> (Marc). I'm an undergraduate senior majoring <b>Geographic Information Science</b> at Capital Normal University (China) and <b>Geography</b> at Northern Illinois University (USA). I'm current working with Dr. Qunying Huang from Spatial Computing and Data Mining lab at University of Wisconsin-Madison to conduct research related to remote sensing and deep learning.</p>
   </div>
   <div class="image">
     <img src="https://marcwu-929.github.io/images/head_photo.jpg" alt="Description of the image" width="325" height="500">
