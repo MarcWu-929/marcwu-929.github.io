@@ -96,11 +96,49 @@ Department of Earth, Atmosphere and Environment, Northern Illinois University, M
 </style>
 
 
-## **First Place of the undergraduate group at ILGISA Poster Symposium**
+<!-- ## **First Place of the undergraduate group at ILGISA Poster Symposium**
 
 Illinois Geographic Information System Association, May 2023
 
-<img src="https://marcwu-929.github.io/images/poster.jpg" alt="Description of the image" width="450" height="300">
+<img src="https://marcwu-929.github.io/images/poster.jpg" alt="Description of the image" width="450" height="300"> -->
+
+
+<div class="container">
+  <div class="text-box">
+    <p><b>First Place of the undergraduate group at ILGISA Poster Symposium</b>
+      <br>
+      May 2023
+      <br>
+      Illinois Geographic Information System Association
+    </p>
+  </div>
+  <div class="image">
+    <img src="https://marcwu-929.github.io/images/poster.jpg" alt="Description of the image" width="325" height="500">
+  </div>
+</div>
+
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+  }
+
+  .text-box {
+    flex: 1;
+    padding: 20px;
+    background-color: transparent;
+  }
+
+  .image {
+    flex-shrink: 0;
+    margin-left: 20px;
+  }
+
+  img {
+    max-width: 63%;
+    height: auto;
+  }
+</style>
 
 ## **Third Place of the environmental category at CURE Poster Symposium**
 
