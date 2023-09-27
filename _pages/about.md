@@ -20,7 +20,7 @@ redirect_from:
 <style>
   .container {
     display: flex;
-    align-items: center;
+    align-items: left;
   }
 
   .text-box {
@@ -78,7 +78,7 @@ Bachelor of Science in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
 <style>
   .container {
     display: flex;
-    align-items: center;
+    align-items: left;
   }
 
   .text-box {
