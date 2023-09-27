@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: Mingda Wu
-excerpt: About me
+title: About Me
+excerpt: Mingda Wu
 author_profile: true
 redirect_from:
   - /about/
