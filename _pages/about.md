@@ -31,7 +31,7 @@ redirect_from:
 
   .image {
     flex-shrink: 0;
-    margin-left: 50px;
+    margin-left: 20px;
   }
 
   img {
