@@ -52,21 +52,21 @@ Bachelor of Science in Geographic Information Science, Beijing, China, 2020-Pres
 Bachelor of Science in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
 
 # Research Interests
-- Remote Sensing and GIS
+<!-- - Remote Sensing and GIS
 - Semantic Segmentation
 - Machine Learning
 - Spatial Analysis
 - Forest and Vegetation Mapping
-- Natural Hazard
+- Natural Hazard -->
 
 <div class="container">
   <div class="text-box">
-    <p>Remote Sensing and GIS
-      <br>Semantic Segmentation
-      <br>Machine Learning
-      <br>Spatial Analysis
-      <br>Forest and Vegetation Mapping
-      <br>Natural Hazard.</p>
+    <ul> <li>Remote Sensing and GIS</li>
+         <li>Semantic Segmentation</li>
+         <li>Machine Learning</li>
+         <li>Spatial Analysis</li>
+         <li>Forest and Vegetation Mapping</li>
+         <li>Natural Hazard</li></ul>
       
 
   </div>
