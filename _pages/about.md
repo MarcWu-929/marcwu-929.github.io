@@ -59,4 +59,44 @@ Bachelor of Science in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
 - Forest and Vegetation Mapping
 - Natural Hazard
 
+<div class="container">
+  <div class="text-box">
+    <p>Remote Sensing and GIS
+      <br>Semantic Segmentation
+      <br>Machine Learning
+      <br>Spatial Analysis
+      <br>Forest and Vegetation Mapping
+      <br>Natural Hazard.</p>
+      
+
+  </div>
+  <div class="image">
+    <img src="https://marcwu-929.github.io/images/article.png" alt="Description of the image" width="325" height="500">
+  </div>
+</div>
+
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+  }
+
+  .text-box {
+    flex: 1;
+    padding: 20px;
+    background-color: transparent;
+  }
+
+  .image {
+    flex-shrink: 0;
+    margin-left: 20px;
+  }
+
+  img {
+    max-width: 63%;
+    height: auto;
+  }
+</style>
+
+
 My research lies across the discipline of Geography, Computer Vision and Data Science. My current research focuses on remote sensing image segmentation using deep learning models. Some techniques involved including semantic segmentation, supervised classification, image super sampling, etc. I wish to combine remote sensing technologies with other powerful tools to solve problems related to ecosystem and physical geography.
