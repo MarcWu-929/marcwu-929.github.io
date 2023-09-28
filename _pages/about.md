@@ -20,7 +20,7 @@ redirect_from:
 <style>
   .container {
     display: flex;
-    align-items: center;
+    align-items: left;
   }
 
   .text-box {
@@ -52,11 +52,51 @@ Bachelor of Science in Geographic Information Science, Beijing, China, 2020-Pres
 Bachelor of Science in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
 
 # Research Interests
-- Remote Sensing and GIS
+<!-- - Remote Sensing and GIS
 - Semantic Segmentation
 - Machine Learning
 - Spatial Analysis
 - Forest and Vegetation Mapping
-- Natural Hazard
+- Natural Hazard -->
+
+<div class="container">
+  <div class="text-box">
+    <ul> <li>Remote Sensing and GIS</li>
+         <li>Semantic Segmentation</li>
+         <li>Machine Learning</li>
+         <li>Spatial Analysis</li>
+         <li>Forest and Vegetation Mapping</li>
+         <li>Natural Hazard</li></ul>
+      
+
+  </div>
+  <div class="image">
+    <img src="https://marcwu-929.github.io/images/article.png" alt="Description of the image" width="325" height="500">
+  </div>
+</div>
+
+<style>
+  .container {
+    display: flex;
+    align-items: left;
+  }
+
+  .text-box {
+    flex: 2;
+    padding: 20px;
+    background-color: transparent;
+  }
+
+  .image {
+    flex-shrink: 0;
+    margin-left: 20px;
+  }
+
+  img {
+    max-width: 70%;
+    height: auto;
+  }
+</style>
+
 
 My research lies across the discipline of Geography, Computer Vision and Data Science. My current research focuses on remote sensing image segmentation using deep learning models. Some techniques involved including semantic segmentation, supervised classification, image super sampling, etc. I wish to combine remote sensing technologies with other powerful tools to solve problems related to ecosystem and physical geography.
