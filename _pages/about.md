@@ -61,12 +61,12 @@ Bachelor of Science in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
 
 <div class="container">
   <div class="text-box">
-    <ul> <li>Remote Sensing and GIS</li>
-         <li>Semantic Segmentation</li>
-         <li>Machine Learning</li>
+    <ul> <li>GIS and Remote Sensing</li>
+         <li>GeoAI</li>
          <li>Spatial Analysis</li>
-         <li>Forest and Vegetation Mapping</li>
-         <li>Natural Hazard</li></ul>
+         <li>Mobility and Health</li>
+         <li>Natural Hazards</li>
+         <li>Image Segmentation</li></ul>
       
 
   </div>
@@ -99,4 +99,4 @@ Bachelor of Science in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
 </style>
 
 
-My research lies across the discipline of Geography, Computer Vision and Data Science. My current research focuses on remote sensing image segmentation using deep learning models. Some techniques involved including semantic segmentation, supervised classification, image super sampling, etc. I wish to combine remote sensing technologies with other powerful tools to solve problems related to ecosystem and physical geography.
+My research lies across the discipline of Geography, Computer Vision and Data Science. My current research focuses on remote sensing image segmentation using deep learning models. I wish to combine GIS and RS technologies with other powerful tools to solve problems across the geography discipline.
