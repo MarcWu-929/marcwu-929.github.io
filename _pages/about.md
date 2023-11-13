@@ -99,4 +99,4 @@ Bachelor of Science in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
 </style>
 
 
-My research lies across the discipline of Geography, Computer Vision and Data Science. My current research focuses on remote sensing image segmentation using deep learning models. I wish to combine GIS and RS technologies with other powerful tools to solve problems across the geography discipline.
+My research lies across the discipline of Geography, Computer Vision and Data Science. My current research focuses on wildfire damage area detection using deep learning models. I wish to combine GIS and RS technologies with other powerful tools to solve problems across the geography discipline.
