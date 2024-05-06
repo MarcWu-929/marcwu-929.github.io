@@ -13,7 +13,7 @@ redirect_from:
     <p>Welcome to my homepage!. I'm an undergraduate senior majoring <b>Geographic Information Science</b> at Capital Normal University (China) and <b>Geography</b> at Northern Illinois University (USA). I'm current working with Dr. Qunying Huang from Spatial Computing and Data Mining lab at University of Wisconsin-Madison to conduct research related to remote sensing and deep learning.</p>
   </div>
   <div class="image">
-    <img src="https://marcwu-929.github.io/images/head_photo.png" alt="Description of the image" width="500" height="700">
+    <img src="https://marcwu-929.github.io/images/head_photo.jpg" alt="Description of the image" width="300" height="300">
   </div>
 </div>
 
