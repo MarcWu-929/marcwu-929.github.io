@@ -10,7 +10,16 @@ redirect_from:
 
 <div class="container">
   <div class="text-box">
-    <p>Welcome to my homepage!. I'm an undergraduate senior majoring <b>Geographic Information Science</b> at Capital Normal University (China) and <b>Geography</b> at Northern Illinois University (USA). I'm current working with Dr. Qunying Huang from Spatial Computing and Data Mining lab at University of Wisconsin-Madison to conduct research related to remote sensing and deep learning.</p>
+
+[//]: # (    <p>Welcome to my homepage!. I'm an undergraduate senior majoring <b>Geographic Information Science</b> at Capital Normal University &#40;China&#41; )
+
+[//]: # (and <b>Geography</b> at Northern Illinois University &#40;USA&#41;. I'm current working with Dr. Qunying Huang from Spatial Computing and Data Mining lab )
+
+[//]: # (at University of Wisconsin-Madison to conduct research related to remote sensing and deep learning.</p>)
+
+<p> I'm an incoming master student at <b>UW-Madison</b> majoring in Biological Systems Engineering. I will be conducting research projects about 
+Remote Sensing and Deep Learning. I'm currently looking for a <b>Graduate Assistantship</b> to fund my study. Feel free to contact me at mingda.wu@hotmail.com 
+with potential RA or TA opportunities. </p>
   </div>
   <div class="image">
     <img src="https://marcwu-929.github.io/images/head_photo.jpg" alt="Description of the image" width="300" height="300">
