@@ -10,4 +10,4 @@ I've been actively participated in academic conferences
 
 *AAG 2024 ∣ online ∣ Apr. 16, 2024*
 
-<div class="wordwrap"><a href="{https://aag.secure-platform.com/aag2024/solicitations/57/sessiongallery/7886/application/31267}">https://aag.secure-platform.com/aag2024/solicitations/57/sessiongallery/7886/application/31267</a></div>
+<a href="{https://aag.secure-platform.com/aag2024/solicitations/57/sessiongallery/7886/application/31267}">https://aag.secure-platform.com/aag2024/solicitations/57/sessiongallery/7886/application/31267</a>
