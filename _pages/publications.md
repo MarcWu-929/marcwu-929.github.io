@@ -5,19 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-## [**Pixel-Wise Machine Learning and Deep Learning Methods Implementation on Multi-Class Wildfire Mapping**](https://huskiecommons.lib.niu.edu/studentengagement-honorscapstones/1464/)
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
-**Mingda Wu**
+{% include base_path %}
 
-Published in *Northern Illinois University Huskie Commons*, 2023
-
-Wu, M. (2023). Pixel-Wise Machine Learning and Deep Learning Methods Implementation on Multi-Class Wildfire Mapping.
-
-[View PDF](https://huskiecommons.lib.niu.edu/cgi/viewcontent.cgi?article=2467&context=studentengagement-honorscapstones)
-
-## **Pixel-wise Wildfire Burn Severity Classification with Bi-temporal Sentinel-2 Data and Deep Learning** (Under-Publication)
-
-**Mingda Wu**, Qunying Huang, Tang Sui, Meiliu Wu
-
-Will be published in *ICBDT 2023 Conference Proceedings*, 2023
-
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
