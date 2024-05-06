@@ -19,11 +19,9 @@
             "id": "3f3df9d9a16e4955",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "images/awatar.jpg"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "images/awatar.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "images/awatar.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "images/awatar.jpg"
               }
             }
           }
@@ -157,8 +155,12 @@
   },
   "active": "3f3df9d9a16e4955",
   "lastOpenFiles": [
+    "images/bio-photo.jpg",
+    "images/bio-photo-2.jpg",
     "images/awatar.jpg",
     "images/avatar-1.png",
+    "images/article.png",
+    "README.md",
     "_portfolio/portfolio-1.md",
     "_publications/2010-10-01-paper-title-number-2.md",
     "_publications/2015-10-01-paper-title-number-3.md",
