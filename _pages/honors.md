@@ -140,9 +140,6 @@ Illinois Geographic Information System Association, May 2023
   }
 </style>
 
-## **Third Place of the environmental category at CURE Poster Symposium**
-
-Northern Illinois University, Apr 2023
 
 <!-- ## **Second place of general news photo for excellence in Illinois college newspaper**
 
@@ -188,6 +185,3 @@ Illinois College Press Association, Feb 2023
   }
 </style>
 
-## **Major Third-Class Scholarship**
-
-Capital Normal University, Spring 2022
