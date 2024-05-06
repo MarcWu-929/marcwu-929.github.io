@@ -11,12 +11,8 @@
             "id": "14bcc5a598225e18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CHANGELOG.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -25,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/about.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/about.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/about.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,21 +157,34 @@
   },
   "active": "3f3df9d9a16e4955",
   "lastOpenFiles": [
-    "CHANGELOG.md",
-    "_pages/photo.md",
+    "images/awatar.jpg",
+    "images/avatar-1.png",
+    "_portfolio/portfolio-1.md",
+    "_publications/2010-10-01-paper-title-number-2.md",
+    "_publications/2015-10-01-paper-title-number-3.md",
+    "_publications/2009-10-01-paper-title-number-1.md",
+    "_posts/2015-08-14-blog-post-4.md",
+    "_posts/2014-08-14-blog-post-3.md",
+    "_posts/2012-08-14-blog-post-1.md",
+    "_posts/2013-08-14-blog-post-2.md",
     "_pages/about.md",
-    "Untitled",
-    "_pages/honors.md",
-    "images/scholarship.png",
-    "_pages/publications.md",
     "_pages/cv.md",
+    "_pages/publications.md",
+    "_pages/404.md",
+    "_pages/non-menu-page.md",
+    "_pages/archive-layout-with-content.md",
+    "_pages/photo.md",
+    "_pages/terms.md",
+    "_pages/honors.md",
+    "_pages/markdown.md",
+    "CHANGELOG.md",
+    "Untitled",
+    "images/scholarship.png",
     "images/scholarship.jpg",
     "images/safari-pinned-tab.svg",
     "images/avatar.png",
     "images/奖学金-1.jpg",
     "images/editing-talk.png",
-    "_pages/markdown.md",
-    "_pages/sitemap.md",
-    "_pages/404.md"
+    "_pages/sitemap.md"
   ]
 }
