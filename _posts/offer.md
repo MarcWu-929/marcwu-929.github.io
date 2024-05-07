@@ -1,7 +1,7 @@
 ---
 title: 'Admitted to University of Wisconsin-Madison'
 date: 2023-03-20
-permalink: /posts/offer/
+permalink: /posts/2014/08/blog-post-5/
 tags:
   - cool posts
   - category1
