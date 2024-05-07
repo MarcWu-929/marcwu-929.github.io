@@ -20,5 +20,11 @@ I've been actively participated in academic conferences
 
 ## [Poster] Pixel-Wise Machine Learning and Deep Learning Methods Implementation on Multi-Class Wildfire Mapping
 
-*ILGISA & GSC **∣** Chicago, IL **∣** May. 6, 2023*
+*Student Poster Symposium, ILGISA & GSC **∣** Chicago, IL **∣** May. 6, 2023*
+
+## [Poster] Pixel-Wise Machine Learning and Deep Learning Methods Implementation on Multi-Class Wildfire Mapping
+
+*CURE Poster Symposium, Northern Illinois University **∣** DeKalb, IL **∣** Apr. 19, 2023*
+
+[https://niutoday.info/2023/05/03/oseel-announces-cure-awards/](https://niutoday.info/2023/05/03/oseel-announces-cure-awards/)
 
