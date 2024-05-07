@@ -1,6 +1,6 @@
 ---
 title: 'Madison Offer'
-date: 2015-03-20
+date: 2015-08-14
 permalink: /posts/madison_offer/
 tags:
   - cool posts
