@@ -9,12 +9,10 @@ main:
   - title: "Awards and Honors"
     url: /honors/    
 
-  - title: "News_drop"
-    url: /news/
+  - title: "News"
+    url: /year-archive/
 
   - title: "CV"
     url: /cv/
 
-  - title: "News"
-    url: /year-archive/
 
