@@ -8,6 +8,6 @@ author_profile: true
 
 ## Mar 20 
 
-### [Offered admission at University of Wisconsin-Madison](/news/madison offer)
+### [Offered admission at University of Wisconsin-Madison](madison offer.md)
 
 # 2023
