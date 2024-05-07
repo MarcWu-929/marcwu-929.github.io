@@ -9,7 +9,7 @@ main:
   - title: "Awards and Honors"
     url: /honors/    
 
-  - title: "News-drop"
+  - title: "News_drop"
     url: /news/
 
   - title: "CV"
@@ -17,5 +17,4 @@ main:
 
   - title: "News"
     url: /year-archive/
-
 
