@@ -23,12 +23,12 @@ Sui, T., Huang, Q., **Wu, M**., Wu, M., & Zhang, Z. (2024)
 
 ## [Pixel-wise Wildfire Burn Severity Classification with Bitemporal Sentinel-2 Data and Deep Learning](https://dl.acm.org/doi/10.1145/3627377.3627433)
 
-Wu, M., Huang, Q., Sui, T., & Wu, M. (2023)
+**Wu, M**., Huang, Q., Sui, T., & Wu, M. (2023)
 
 *2023 6th International Conference on Big Data Technologies (ICBDT 2023)*
 
 ## [Pixel-Wise Machine Learning and Deep Learning Methods Implementation on Multi-Class Wildfire Mapping](https://huskiecommons.lib.niu.edu/studentengagement-honorscapstones/1464/)
 
-Wu, M. (2023)
+**Wu, M**. (2023)
 
 *Honors Capstones, Northern Illinois University*
