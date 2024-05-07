@@ -4,7 +4,7 @@ title: "Presentation"
 permalink: /presentation/
 author_profile: true
 ---
-I've been actively participated in academic conferences
+I've been actively participating in academic conferences
 
 ## [Paper] [Bi-RAUnet: A Multiclass Wildfire Burnt Area Assessment Framework using Deep Learning and Sentinel-2 Imagery](https://aag.secure-platform.com/aag2024/solicitations/57/sessiongallery/7886/application/31267) (Jeanne X. Kasperson Student Paper Award) 
 
