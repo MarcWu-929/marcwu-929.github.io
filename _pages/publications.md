@@ -29,6 +29,6 @@ Wu, M., Huang, Q., Sui, T., & Wu, M. (2023)
 
 ## [Pixel-Wise Machine Learning and Deep Learning Methods Implementation on Multi-Class Wildfire Mapping](https://huskiecommons.lib.niu.edu/studentengagement-honorscapstones/1464/)
 
-Wu, M. (2023
+Wu, M. (2023)
 
 *Honors Capstones, Northern Illinois University*
