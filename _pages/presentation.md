@@ -18,11 +18,11 @@ I've been actively participated in academic conferences
 
 [https://news.ouc.edu.cn/2023/1004/c79a114189/page.htm](https://news.ouc.edu.cn/2023/1004/c79a114189/page.htm)
 
-## [Poster] Pixel-Wise Machine Learning and Deep Learning Methods Implementation on Multi-Class Wildfire Mapping
+## [Poster] Pixel-Wise Machine Learning and Deep Learning Methods Implementation on Multi-Class Wildfire Mapping (First Prize)
 
 *Student Poster Symposium, ILGISA & GSC **∣** Chicago, IL **∣** May. 6, 2023*
 
-## [Poster] Pixel-Wise Machine Learning and Deep Learning Methods Implementation on Multi-Class Wildfire Mapping
+## [Poster] Pixel-Wise Machine Learning and Deep Learning Methods Implementation on Multi-Class Wildfire Mapping (Third Prize)
 
 *CURE Poster Symposium, Northern Illinois University **∣** DeKalb, IL **∣** Apr. 19, 2023*
 
