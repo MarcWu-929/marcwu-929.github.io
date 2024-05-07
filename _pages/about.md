@@ -55,7 +55,8 @@ Bachelor of Science in Geographic Information Science, Beijing, China, 2020-Pres
 Bachelor of Science in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
 
 # Research Interests
-<!-- - Remote Sensing and GIS
+<!-- 
+-Remote Sensing and GIS
 - Semantic Segmentation
 - Machine Learning
 - Spatial Analysis
