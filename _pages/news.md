@@ -4,10 +4,9 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+# 2024
 
+## Mar 20 
+### Offered admission at University of Wisconsin-Madison
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# 2023
