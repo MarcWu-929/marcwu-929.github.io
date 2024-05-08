@@ -50,15 +50,15 @@ Remote Sensing and Deep Learning. I'm currently looking for a <b>Graduate Assist
 # Education
  **Capital Normal University**
 
-Bachelor of Science in Geographic Information Science, Beijing, China, 2020-Present
+*Bachelor of Science* in Geographic Information Science, Beijing, China, 2020-Present
 
 **Northern Illinois University**
 
-Bachelor of Science in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
+*Bachelor of Science* in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
 
 # Research Interests
 <!-- 
--Remote Sensing and GIS
+- Remote Sensing and GIS
 - Semantic Segmentation
 - Machine Learning
 - Spatial Analysis
