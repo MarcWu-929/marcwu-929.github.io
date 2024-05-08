@@ -19,10 +19,8 @@
             "id": "3f3df9d9a16e4955",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "images/awatar.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/awatar.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/awatar.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "images/awatar.jpg"
-              }
+              "state": {}
             }
           }
         ]
