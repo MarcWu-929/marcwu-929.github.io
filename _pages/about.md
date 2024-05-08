@@ -57,21 +57,15 @@ Remote Sensing and Deep Learning. I'm currently looking for a <b>Graduate Assist
 *Bachelor of Science* in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
 
 # Research Interests
-<!-- 
-- Remote Sensing and GIS
-- Semantic Segmentation
-- Machine Learning
-- Spatial Analysis
-- Forest and Vegetation Mapping
-- Natural Hazard -->
 
 <div class="container">
   <div class="text-box">
-    <ul> <li>emote Sensing and GIS</li>
+    <ul> <li>Remote Sensing and GIS</li>
          <li>GeoAI and Big Data</li>
          <li>Deep Learning</li>
          <li>Natural Hazards</li>
-         <li>Image Segmentation</li></ul>
+         <li>Image Segmentation</li>
+         <li>Digital Agriculture</li></ul>
       
 
   </div>
