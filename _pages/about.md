@@ -13,7 +13,7 @@ redirect_from:
     <p> I'm an incoming master student at <b>UW-Madison</b> majoring in Biological Systems Engineering. I will be conducting research projects about 
 Remote Sensing and Deep Learning. I'm currently looking for a <b>Graduate Assistantship</b> to fund my study. </p>
 
-<p>❗Feel free to contact me at mingda.wu@hotmail.com  with potential RA or TA opportunitiee. </p>
+<p>❗Feel free to contact me at mingda.wu@hotmail.com  with potential RA or TA opportunities. </p>
 
 <p>Landscape photography is my biggest interest in free time. I also have other hobbies like hiking, snowboarding and piano. </p>
   </div>
