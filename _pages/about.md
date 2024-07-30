@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="container">
   <div class="text-box">
-    <p> I'm an incoming master student at <b>UW-Madison</b> majoring in Biological Systems Engineering. I will be conducting research projects about 
+    <p> I'm  a Master's student at <b>UW-Madison</b> majoring in Biological Systems Engineering. I will be conducting research projects about 
 Remote Sensing and Deep Learning. I'm currently looking for a <b>Graduate Assistantship</b> to fund my study. </p>
 
 <p>❗Feel free to contact me at mingda.wu@hotmail.com  with potential RA or TA opportunities. </p>
@@ -48,6 +48,9 @@ Remote Sensing and Deep Learning. I'm currently looking for a <b>Graduate Assist
 
 
 # Education
+**University of Wisconsin-Madison**
+*Master of Science* in Biological Systems Engineering, Madison, WI, USA
+
  **Capital Normal University**
 
 *Bachelor of Science* in Geographic Information Science, Beijing, China, 2020-Present
