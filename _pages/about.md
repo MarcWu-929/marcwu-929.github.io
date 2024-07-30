@@ -49,6 +49,7 @@ Remote Sensing and Deep Learning. I'm currently looking for a <b>Graduate Assist
 
 # Education
 **University of Wisconsin-Madison**
+
 *Master of Science* in Biological Systems Engineering, Madison, WI, USA
 
  **Capital Normal University**
