@@ -9,13 +9,13 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-## [Second Round Review] A Remote Sensing Spectral Index Guided Bitemporal Residual Attention Network for Wildfire Burn Severity Mapping
+## [A Remote Sensing Spectral Index Guided Bitemporal Residual Attention Network for Wildfire Burn Severity Mapping](https://ieeexplore.ieee.org/abstract/document/10680302)
 
 **Wu, M**., Huang, Q., Sui, T., Bo, P & Yu, M. (2024)
 
 *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024
 
-## [Under Review] BiAU-Net: Wildfire Burnt Area Detection Based on Bi-temporal Sentinel-2 Images and U-Net with Attention Mechanism
+## [BiAU-Net: Wildfire Burnt Area Detection Based on Bi-temporal Sentinel-2 Images and U-Net with Attention Mechanism](https://www.sciencedirect.com/science/article/pii/S1569843224003881)
 
 Sui, T., Huang, Q., **Wu, M**., Wu, M., & Zhang, Z. (2024)
 
