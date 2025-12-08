@@ -10,10 +10,10 @@ redirect_from:
 
 <div class="container">
   <div class="text-box">
-    <p> I'm  a Master's student at <b>UW-Madison</b> majoring in Biological Systems Engineering. I will be conducting research projects about 
-Remote Sensing and Deep Learning. I'm currently looking for a <b>Graduate Assistantship</b> to fund my study. </p>
+    <p> I'm  a Master's student at <b>UW-Madison</b> majoring in Biological Systems Engineering. I'm conducting research projects about 
+Remote Sensing and Deep Learning in Agricultural applications. I'm currently looking for a <b>PhD</b> to fund my study. </p>
 
-<p>❗Feel free to contact me at mingda.wu@hotmail.com  with potential RA or TA opportunities. </p>
+<p>❗Feel free to contact me at mingda.wu@hotmail.com  with potential PhD opportunities. </p>
 
 <p>Landscape photography is my biggest interest in free time. I also have other hobbies like hiking, snowboarding and piano. </p>
   </div>
@@ -64,12 +64,13 @@ Remote Sensing and Deep Learning. I'm currently looking for a <b>Graduate Assist
 
 <div class="container">
   <div class="text-box">
-    <ul> <li>Remote Sensing and GIS</li>
-         <li>GeoAI and Big Data</li>
+    <ul> <li>Digital Agriculture</li>
+         <li>Yield Prediction</li>
+          <li>Ecosystem</li>
+         <li>Remote Sensing</li>
          <li>Deep Learning</li>
          <li>Natural Hazards</li>
-         <li>Image Segmentation</li>
-         <li>Digital Agriculture</li></ul>
+         </ul>
       
 
   </div>
@@ -102,4 +103,4 @@ Remote Sensing and Deep Learning. I'm currently looking for a <b>Graduate Assist
 </style>
 
 
-My research lies across the discipline of Geography, Computer Vision and Data Science. My current research focuses on wildfire damage area detection using deep learning models. I wish to combine GIS and RS technologies with other powerful tools to solve problems across the geography discipline.
+My research lies across the discipline of Geography, Ecology, Computer Vision and Data Science. My current research focuses on corn yield prediction integrating phenology information and remote sensing datasets.I hope to combine modern technology and realiable datasets in resolving environmental and ecological problems.
