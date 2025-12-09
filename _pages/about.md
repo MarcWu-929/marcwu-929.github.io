@@ -19,7 +19,7 @@ Remote Sensing and Deep Learning in Agricultural applications. I'm currently loo
   </div>
   <div class="image">
     <img src="https://marcwu-929.github.io/images/Wu_Mingda_GradSch2025.jpg" alt="Description of the image" width="240" height="300">
-  </div
+  </div>
 </div>
 
 <style>
