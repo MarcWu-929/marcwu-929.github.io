@@ -13,7 +13,7 @@ redirect_from:
     <p> I'm  a Master's student at <b>UW-Madison</b> majoring in Biological Systems Engineering. I'm conducting research projects about 
 Remote Sensing and Deep Learning in Agricultural applications. I'm currently looking for a <b>PhD</b> position. </p>
 
-<p>❗Feel free to contact me at mingda.wu@hotmail.com  with potential PhD opportunities. </p>
+<p>❗Feel free to contact me at mwu336@wisc.edu with potential PhD opportunities. </p>
 
 <p>Landscape photography is my biggest interest in free time. I also have other hobbies like hiking, snowboarding and piano. </p>
   </div>
