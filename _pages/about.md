@@ -22,7 +22,7 @@ Remote Sensing and Deep Learning in Agricultural applications. I'm currently loo
   </div>
 </div>
 
-<!style>
+<style>
   .container {
     display: flex;
     align-items: left;
@@ -43,7 +43,7 @@ Remote Sensing and Deep Learning in Agricultural applications. I'm currently loo
     max-width: 40%;
     height: auto;
   }
-<!/style> -->
+</style> -->
 
 
 
