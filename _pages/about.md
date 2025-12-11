@@ -14,7 +14,7 @@ redirect_from:
 Remote Sensing and Deep Learning in Agricultural applications. I'm currently looking for a <b>PhD</b> position starting Fall 2026. </p>
 
 <p>❗Feel free to contact me at <b>mwu336@wisc.edu</b> with potential PhD opportunities </p>
-<p>❗<b>UPDATE</b>: I'm at <b>AGU 2025</b>, learn more about my work here: [Github](https://github.com/MarcWu-929/AGU25/tree/main) </p>
+<p>❗<b>UPDATE</b>: I'm at <b>AGU 2025</b>, learn more about my work here: <a href="https://github.com/MarcWu-929/AGU25/tree/main">https://github.com/MarcWu-929/AGU25/tree/main</a> </p>
 
   </div>
  <!-- <div class="image">
