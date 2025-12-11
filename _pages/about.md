@@ -16,13 +16,13 @@ Remote Sensing and Deep Learning in Agricultural applications. I'm currently loo
 <p>❗Feel free to contact me at mwu336@wisc.edu with potential PhD opportunities. </p>
 
 <p>Landscape photography is my biggest interest in free time. I also have other hobbies like hiking, snowboarding and piano. </p>
-  </div>
+  <!-- </div>
   <div class="image">
     <img src="https://marcwu-929.github.io/images/Wu_Mingda_GradSch2025.jpg" alt="Description of the image" width="320" height="320">
   </div>
 </div>
 
-<style>
+<!-- <style>
   .container {
     display: flex;
     align-items: left;
@@ -43,7 +43,7 @@ Remote Sensing and Deep Learning in Agricultural applications. I'm currently loo
     max-width: 40%;
     height: auto;
   }
-</style>
+</style> --> -->
 
 
 
