@@ -5,6 +5,6 @@ permalink: /photo/
 author_profile: true
 ---
 
-# Under Construction 🚧
 
-[My Previous Photos](https://northernstar.info/staff_name/mingda-wu/)
+
+[My photos as a photojournalist](https://northernstar.info/staff_name/mingda-wu/)
