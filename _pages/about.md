@@ -15,7 +15,6 @@ Remote Sensing and Deep Learning in Agricultural applications. I'm currently loo
 
 <p>❗Feel free to contact me at <b>mwu336@wisc.edu</b> with potential PhD opportunities. </p>
 
-<p>Landscape photography is my biggest interest in free time. I also have other hobbies like hiking, snowboarding and piano. </p>
   </div>
  <!-- <div class="image">
     <!img src="https://marcwu-929.github.io/images/Wu_Mingda_GradSch2025.jpg" alt="Description of the image" width="320" height="320">
@@ -103,4 +102,6 @@ Remote Sensing and Deep Learning in Agricultural applications. I'm currently loo
 </style>
 
 
-My research lies across the discipline of Geography, Ecology, Computer Vision and Data Science. My current research focuses on corn yield prediction integrating phenology information and remote sensing datasets.I hope to combine modern technology and realiable datasets in resolving environmental and ecological problems.
+<p>My research lies across the discipline of Geography, Ecology, Computer Vision and Data Science. My current research focuses on corn yield prediction integrating phenology information and remote sensing datasets.I hope to combine modern technology and realiable datasets in resolving environmental and ecological problems.</p>
+
+<p>Landscape photography is my biggest interest in free time. I also have other hobbies like hiking, snowboarding and piano. </p>
