@@ -12,4 +12,4 @@ These are my works when I was a senior photojournalist at Northern Star, Northen
 
 ### [Annual photography](https://drive.google.com/drive/folders/1RxAU2iOAlOwN9lc2NQNabtLn8xZZ7K6y?usp=drive_link)
 
-Every year I select 5 of my best shot and put them into this collection.
+Every year I select five of my best shots and put them into a collection.
