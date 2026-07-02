@@ -48,9 +48,13 @@ Remote Sensing and Deep Learning in Agricultural applications. I'm currently loo
 
 
 # Education
+**The University of Texas at Austin**
+
+*PhD* in Geosciences, Austin, TX, USA, Present
+
 **University of Wisconsin-Madison**
 
-*Master of Science* in Biological Systems Engineering, Madison, WI, USA, Present
+*Master of Science* in Biological Systems Engineering, Madison, WI, USA, 2024-2026
 
  **Capital Normal University**
 
