@@ -10,12 +10,12 @@ redirect_from:
 
 <div class="container">
   <div class="text-box">
-    <p> I'm  a Master's student at <b>UW-Madison</b> majoring in Biological Systems Engineering. I'm conducting research projects about 
-Remote Sensing and Deep Learning in Agricultural applications. I'm currently looking for a <b>PhD</b> position starting Fall 2026. </p>
+    <p> I'm  a PhD student at <b>Jackson School of Geociences, UT-Austin</b>. I'm conducting research projects regarding 
+Remote Sensing and Artificial Intellegence in Wildfire and Earth System Sciences. I'm actively looking for collaborations and connections.  </p>
 
-<p>❗Feel free to contact me at <b>mwu336@wisc.edu</b> with potential PhD opportunities </p>
+<!-- <p>❗Feel free to contact me at <b>mwu336@wisc.edu</b> with potential PhD opportunities </p>
 <p>❗<b>UPDATE</b>: I'm at <b>AGU 2025</b>, learn more about my work here: <a href="https://github.com/MarcWu-929/AGU25/tree/main">https://github.com/MarcWu-929/AGU25/tree/main</a> </p>
-
+-->
   </div>
  <!-- <div class="image">
     <!img src="https://marcwu-929.github.io/images/Wu_Mingda_GradSch2025.jpg" alt="Description of the image" width="320" height="320">
@@ -56,13 +56,15 @@ Remote Sensing and Deep Learning in Agricultural applications. I'm currently loo
 
 *Master of Science* in Biological Systems Engineering, Madison, WI, USA, 2024-2026
 
+**Northern Illinois University**
+
+*Bachelor of Science* in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
+
  **Capital Normal University**
 
 *Bachelor of Science* in Geographic Information Science, Beijing, China, 2020-2024
 
-**Northern Illinois University**
 
-*Bachelor of Science* in Geography (GIS Certificate), DeKalb, IL, USA, 2021-2023
 
 # Research Interests
 
